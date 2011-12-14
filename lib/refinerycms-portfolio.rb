@@ -1,6 +1,7 @@
+require 'refinery'
+
 module Refinery
   module Portfolio
-    autoload :Version, File.expand_path('../refinery/portfolio/version', __FILE__)
 
     class << self
       def multi_level?
