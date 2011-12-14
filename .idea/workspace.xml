@@ -4,6 +4,7 @@
     <list default="true" id="97214329-a1ac-4707-80c2-e465b46c8b59" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/portfolio.rb" afterPath="$PROJECT_DIR$/lib/portfolio.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/portfolio/version.rb" afterPath="$PROJECT_DIR$/lib/portfolio/version.rb" />
     </list>
     <ignored path="refinerycms-portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,10 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="portfolio.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/portfolio.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="104" selection-end="104" vertical-scroll-proportion="0.067226894">
+            <state line="3" column="29" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/portfolio/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="15" selection-start="71" selection-end="71" vertical-scroll-proportion="0.067226894">
               <folding />
             </state>
           </provider>
@@ -96,6 +106,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb" />
         <option value="$PROJECT_DIR$/lib/portfolio.rb" />
+        <option value="$PROJECT_DIR$/lib/portfolio/version.rb" />
       </list>
     </option>
   </component>
@@ -156,6 +167,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refinerycms-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refinerycms-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -332,7 +361,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/portfolio.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="104" selection-end="104" vertical-scroll-proportion="0.067226894">
+        <state line="3" column="29" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/portfolio/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="15" selection-start="71" selection-end="71" vertical-scroll-proportion="0.067226894">
           <folding />
         </state>
       </provider>
