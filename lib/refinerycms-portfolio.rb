@@ -1,5 +1,3 @@
-require 'refinery'
-
 module Refinery
   module Portfolio
 
