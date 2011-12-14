@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97214329-a1ac-4707-80c2-e465b46c8b59" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/gemspec.rb" afterPath="$PROJECT_DIR$/lib/gemspec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb" afterPath="$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/refinerycms-portfolio.rb" afterPath="$PROJECT_DIR$/lib/refinerycms-portfolio.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/refinerycms-portfolio.gemspec" afterPath="$PROJECT_DIR$/refinerycms-portfolio.gemspec" />
     </list>
     <ignored path="refinerycms-portfolio.iws" />
@@ -25,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="refinerycms-portfolio.gemspec" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="refinerycms-portfolio.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/refinerycms-portfolio.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.04481793">
+            <state line="13" column="45" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +41,7 @@
       <file leaf-file-name="refinerycms-portfolio.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/refinerycms-portfolio.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0">
+            <state line="2" column="62" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,16 +68,16 @@
       <file leaf-file-name="gemspec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/gemspec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="134" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.0">
+            <state line="18" column="40" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="refinerycms_portfolio_generator.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="refinerycms_portfolio_generator.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="5" column="27" selection-start="182" selection-end="182" vertical-scroll-proportion="0.11204482">
               <folding />
             </state>
           </provider>
@@ -102,10 +106,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb" />
         <option value="$PROJECT_DIR$/lib/portfolio.rb" />
         <option value="$PROJECT_DIR$/lib/portfolio/version.rb" />
         <option value="$PROJECT_DIR$/refinerycms-portfolio.gemspec" />
+        <option value="$PROJECT_DIR$/lib/refinerycms-portfolio.rb" />
+        <option value="$PROJECT_DIR$/lib/gemspec.rb" />
+        <option value="$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb" />
       </list>
     </option>
   </component>
@@ -184,6 +190,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refinerycms-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refinerycms-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -323,34 +347,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/refinerycms-portfolio.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/gemspec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="134" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/factories.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/portfolio.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="29" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
@@ -365,9 +361,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/factories.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/refinerycms-portfolio.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.04481793">
+        <state line="13" column="45" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/refinerycms-portfolio.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gemspec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="40" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generators/refinerycms_portfolio_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="182" selection-end="182" vertical-scroll-proportion="0.11204482">
           <folding />
         </state>
       </provider>
